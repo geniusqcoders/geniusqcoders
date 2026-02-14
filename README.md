@@ -1,1 +1,1 @@
-<img src="./banner.svg" />
+<img src="./geniusers.svg" />
