@@ -1,0 +1,66 @@
+<svg width="1000" height="720" viewBox="0 0 1000 720" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ffd0"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="720" rx="16" fill="#0b0f14"/>
+
+  <style>
+    .ascii { font: 18px 'Courier New', monospace; fill: #ff9f43; }
+    .label { font: 16px 'Courier New', monospace; fill: #6b7280; }
+    .value { font: 16px 'Courier New', monospace; fill: #58a6ff; }
+    .line { stroke: #30363d; stroke-width: 1; }
+  </style>
+
+  <!-- ASCII GENIUS (ровный) -->
+  <text x="40" y="60" class="ascii">  ██████╗ ███████╗███╗   ██╗██╗██╗   ██╗███████╗</text>
+  <text x="40" y="85" class="ascii"> ██╔════╝ ██╔════╝████╗  ██║██║██║   ██║██╔════╝</text>
+  <text x="40" y="110" class="ascii"> ██║  ███╗█████╗  ██╔██╗ ██║██║██║   ██║███████╗</text>
+  <text x="40" y="135" class="ascii"> ██║   ██║██╔══╝  ██║╚██╗██║██║██║   ██║╚════██║</text>
+  <text x="40" y="160" class="ascii">  ╚██████╔╝███████╗██║ ╚████║██║╚██████╔╝███████║</text>
+               
+
+  <line x1="40" y1="220" x2="960" y2="220" class="line"/>
+
+  <text x="40" y="255" class="label">User:</text>
+  <text x="200" y="255" class="value">geniusers (genius)</text>
+
+  <text x="40" y="285" class="label">Role:</text>
+  <text x="200" y="285" class="value">Frontend Developer</text>
+
+  <text x="40" y="315" class="label">Location:</text>
+  <text x="200" y="315" class="value">Russia, Moscow</text>
+
+  <text x="40" y="345" class="label">Focus:</text>
+  <text x="200" y="345" class="value">React &amp; Modern Web</text>
+
+  <line x1="40" y1="370" x2="960" y2="370" class="line"/>
+
+  <text x="40" y="405" class="label">Languages:</text>
+  <text x="200" y="405" class="value">JavaScript, HTML, CSS</text>
+
+  <text x="40" y="435" class="label">Frameworks:</text>
+  <text x="200" y="435" class="value">React</text>
+
+  <text x="40" y="465" class="label">Tools:</text>
+  <text x="200" y="465" class="value">Git, GitHub, VS Code</text>
+
+  <line x1="40" y1="490" x2="960" y2="490" class="line"/>
+
+  <text x="40" y="525" class="value">Building React apps</text>
+  <text x="40" y="555" class="label">• Improving frontend architecture</text>
+  <text x="40" y="585" class="label">• Writing cleaner and more scalable code</text>
+  <text x="40" y="615" class="label">• Growing my English for international work</text>
+
+  <line x1="40" y1="640" x2="960" y2="640" class="line"/>
+
+  <text x="40" y="675" class="label">GitHub:</text>
+  <text x="200" y="675" class="value">github.com/geniusqcoders</text>
+
+  <text x="40" y="705" class="label">Telegram:</text>
+  <text x="200" y="705" class="value">@geniusers</text>
+
+</svg>
